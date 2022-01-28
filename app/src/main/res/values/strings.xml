@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">mainActivity</string>
+
+    <string name="email">Email</string>
+    <string name="button">Enter</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="btnupdate">Update</string>
+
+
+</resources>
